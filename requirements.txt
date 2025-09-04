@@ -9,6 +9,8 @@ zalo-bot
 langchain-openai>=0.1.0
 langchain-core>=0.2.0
 openai>=1.30.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
 
 # Optional: load env from .env
 # python-dotenv>=1.0.0
