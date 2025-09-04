@@ -1,0 +1,16 @@
+# Zalo SDK – pick the correct one for your environment
+# If your imports are `from zalo_bot import ...`, try one of these:
+# zalo-bot
+# zalo-bot-sdk
+# zalo
+zalo-bot
+
+# LangChain + OpenAI
+langchain-openai>=0.1.0
+langchain-core>=0.2.0
+openai>=1.30.0
+
+# Optional: load env from .env
+# python-dotenv>=1.0.0
+langdetect>=1.0.9
+python-dotenv>=1.0.0
